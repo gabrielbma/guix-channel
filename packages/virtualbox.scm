@@ -1,4 +1,4 @@
-(define-module (guix-channel packages virtualbox)
+(define-module (virtualbox)
   #:use-module ((guix licenses) #:prefix license:)
   #:use-module (gnu packages linux)
   #:use-module (gnu packages backup)
