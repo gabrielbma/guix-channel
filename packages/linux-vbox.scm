@@ -6,8 +6,7 @@
   #:use-module (guix build-system linux-module)
   #:use-module (guix packages)
   #:use-module (guix download)
-  #:use-module (guix gexp)
-  #:use-module (gnu packages libarchive))
+  #:use-module (guix gexp))
 
 ;; Based on
 ;; https://gitlab.com/nonguix/nonguix/blob/master/nongnu/packages/linux.scm
