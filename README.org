@@ -1,0 +1,5 @@
+#+TITLE: Guix-channel
+
+Guix-channel is a software repository for the [[https://www.gnu.org/software/guix/][GNU Guix]] package manager, which packages some software that I found useful for my daily usage of Guix.
+
+
